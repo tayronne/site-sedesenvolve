@@ -5,6 +5,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>SeDesenvolve - Sistemas e Sites</title>
+  <link rel="icon" type="image/png" href="image/sedesenvolve_icon.png">
   <link href="https://unpkg.com/lucide@latest" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
 
@@ -55,14 +56,22 @@
 
   <section id="contato">
     <h3 class="section-title">Fale Conosco</h3>
-    <p style="text-align: center; max-width: 600px; margin: 0 auto;">
-      Precisa de um site, sistema ou consultoria? Envie um e-mail para <strong>contato@sedesenvolve.com</strong> ou fale direto no WhatsApp <strong>(99) 99999-9999</strong>.
+    <p class="contact-text">
+      Precisa de um site, sistema ou consultoria? Fale direto no WhatsApp:
+      <strong>(83) 98142-9292</strong>.
     </p>
+    <a class="whatsapp-btn" href="https://wa.me/5583981429292" target="_blank" rel="noopener noreferrer">
+      Chamar no WhatsApp
+    </a>
   </section>
 
   <footer>
     &copy; 2025 SeDesenvolve. Todos os direitos reservados.
   </footer>
+
+  <a class="whatsapp-float" href="https://wa.me/5583981429292" target="_blank" rel="noopener noreferrer" aria-label="Falar no WhatsApp">
+    <i data-lucide="message-circle"></i>
+  </a>
 
   <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
   <script>
